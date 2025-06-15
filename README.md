@@ -9,12 +9,6 @@ The program calculates probabilities using Gaussian (normal) distributions for e
 
 ---
 
-## 👨‍💻 Authors
-- Basel Fares Ishreiteh — 221063
-- Osayed Jameel Nawajaa — 221119
-
----
-
 ## 🚀 How it works
 
 1️⃣ The program contains predefined data for males and females (height, weight, foot size).  
